@@ -1,0 +1,3 @@
+BOT_API = 7402376789:AAEtC8cnUtZTbY-fHCY4XF0ab2BedVuFOiA
+PORT = 4000
+DATABASE_URI = mongodb://localhost:27017/Dev_copy_bot
